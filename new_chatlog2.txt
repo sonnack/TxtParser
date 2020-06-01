@@ -1,0 +1,76 @@
+[Combat]  Wraken' uses Advanced Strafe on Acklay for 5122 points of damage!
+[Combat]  Wraken' uses Advanced Strafe on a cavern spider for 2864 points of damage!
+[Combat]  Serato uses Advanced Strafe on Acklay for 3613 points of damage!
+[Combat]  Serato uses Advanced Strafe on a cavern spider for 3898 points of damage!
+[Combat]  Serato uses Advanced Strafe on an enhanced kliknik for 4543 points of damage!
+[Combat]  Moonsnipe uses Advanced Strafe on Acklay for 7091 points of damage!
+[Combat]  Moonsnipe uses Advanced Strafe on a cavern spider for 2471 points of damage!
+[Combat]  Moonsnipe uses Advanced Strafe on an enhanced kliknik for 6739 points of damage!
+[Combat]  Machru Varo uses Advanced Strafe on Acklay for 3600 points of damage!
+[Combat]  Machru Varo uses Advanced Strafe on a cavern spider for 4117 points of damage!
+[Combat]  Machru Varo uses Advanced Strafe on an enhanced kliknik for 4582 points of damage!
+[Combat]  Lepen Inzip uses Advanced Strafe on Acklay for 2725 points of damage!
+[Combat]  Lepen Inzip uses Advanced Strafe on an enhanced kliknik for 4870 points of damage!
+[Combat]  Ra- Impi uses Advanced Strafe on Acklay for 2578 points of damage!
+[Combat]  Ra- Impi uses Advanced Strafe on an enhanced kliknik for 3148 points of damage!
+[Combat]  Dapper' Dan uses Advanced Strafe on Acklay for 9421 points of damage!
+[Combat]  Spamkry Povo uses Advanced Strafe on Acklay for 3214 points of damage!
+[Combat]  Raae uses Advanced Strafe on Acklay for 5254 points of damage!
+[Combat]  Spamkry Povo uses Advanced Strafe on an enhanced kliknik for 4767 points of damage!
+[Combat]  Juzzy uses Advanced Strafe on Acklay for 12327 points of damage!
+[Combat]  Raae uses Advanced Strafe on an enhanced kliknik for 5141 points of damage!
+[Combat]  Squabble Vohe uses Advanced Strafe on Acklay for 3876 points of damage!
+[Combat]  juyn uses Advanced Strafe on Acklay for 5137 points of damage!
+[Combat]  juyn uses Advanced Strafe on an enhanced kliknik for 3652 points of damage!
+[Combat]  Kenshisan Serock uses Advanced Strafe on Acklay for 7797 points of damage!
+[Combat]  ValleyPower uses Advanced Strafe on Acklay for 5859 points of damage!
+[Combat]  Kenshisan Serock uses Advanced Strafe on an enhanced kliknik for 9064 points of damage!
+[Combat]  Wisha uses Advanced Strafe on Acklay for 5334 points of damage!
+[Combat]  Adrelle uses Advanced Strafe on Acklay for 3463 points of damage!
+[Combat]  Adrelle uses Advanced Strafe on an enhanced kliknik for 4258 points of damage!
+[Combat]  Loubean Soulban uses Advanced Strafe on Acklay for 6841 points of damage!
+[Combat]  Loubean Soulban uses Advanced Strafe on an enhanced kliknik for 8288 points of damage!
+[Combat]  Salfo Oncorhynchus uses Advanced Strafe on Acklay for 5674 points of damage!
+[Combat]  Lying Low uses Advanced Strafe on Acklay for 10649 points of damage!
+[Combat]  RuaN' uses Advanced Strafe on Acklay for 4320 points of damage!
+[Combat]  RuaN' uses Advanced Strafe on an enhanced kliknik for 6052 points of damage!
+[Combat]  Melinoe uses Advanced Strafe on Acklay for 8062 points of damage!
+[Combat]  kayros uses Advanced Strafe on Acklay for 6286 points of damage!
+[Combat]  kayros uses Advanced Strafe on an enhanced kliknik for 4748 points of damage!
+[Combat]  Insignificance uses Advanced Strafe on Acklay for 11505 points of damage!
+[Combat]  Insignificance uses Advanced Strafe on an enhanced kliknik for 9997 points of damage!
+[Combat]  Fisile uses Advanced Strafe on Acklay for 6032 points of damage!
+[Combat]  Fisile uses Advanced Strafe on an enhanced kliknik for 6092 points of damage!
+[Combat]  Variac uses Advanced Strafe on Acklay for 7365 points of damage!
+[Combat]  Ziyad Xandor uses Advanced Strafe on Acklay for 7114 points of damage!
+[Combat]  Variac uses Advanced Strafe on an enhanced kliknik for 5422 points of damage!
+[Combat]  Silene uses Advanced Strafe on Acklay for 4302 points of damage!
+[Combat]  Notamea Nightsinger uses Advanced Strafe on Acklay for 5717 points of damage!
+[Combat]  iamalegend uses Advanced Strafe on Acklay for 3407 points of damage!
+[Combat]  TheOPAway uses Advanced Strafe on Acklay for 4059 points of damage!
+[Combat]  You use Advanced Strafe on Acklay for 2810 points of damage, but he counterattacks!
+[Spatial]  You must be the group leader perform this action.
+[Combat]  You must be the group leader perform this action.
+[Combat]  Lelaebai uses Advanced Strafe on Acklay for 6641 points of damage!
+[Combat]  Kalpo uses Advanced Strafe on Acklay for 4074 points of damage!
+[Combat]  kayros stops fighting.
+[Combat]  Moosia Mory uses Advanced Strafe on Acklay for 8213 points of damage!
+[Combat]  Exact uses Advanced Strafe on Acklay for 3405 points of damage!
+[Combat]  DieselRS uses Advanced Strafe on Acklay for 3648 points of damage!
+[Combat]  Innova uses Advanced Strafe on Acklay for 2511 points of damage!
+[Combat]  Lusitania Xenocide uses Advanced Strafe on Acklay for 2650 points of damage!
+[Combat]  Wraken' uses Advanced Strafe on Acklay for 4822 points of damage!
+[Combat]  Serato uses Advanced Strafe on Acklay for 5451 points of damage!
+[Combat]  Moonsnipe uses Advanced Strafe on Acklay for 6356 points of damage!
+[Combat]  Machru Varo uses Advanced Strafe on Acklay for 6277 points of damage!
+[Combat]  Lepen Inzip uses Advanced Strafe on Acklay for 5016 points of damage!
+[Combat]  Ra- Impi uses Advanced Strafe on Acklay for 4318 points of damage!
+[Combat]  Dapper' Dan uses Advanced Strafe on Acklay for 2949 points of damage!
+[Combat]  Juzzy uses Advanced Strafe on Acklay for 11510 points of damage!
+[Combat]  Spamkry Povo uses Advanced Strafe on Acklay for 6252 points of damage!
+[Combat]  Raae uses Advanced Strafe on Acklay for 8261 points of damage!
+[Combat]  Squabble Vohe uses Advanced Strafe on Acklay for 8991 points of damage!
+[Combat]  juyn uses Advanced Strafe on Acklay for 7657 points of damage!
+[Spatial]  Your target for Strafe Shot 2 was invalid.
+[Combat]  Your target for Strafe Shot 2 was invalid.
+[Spatial]  Your target for Strafe Shot 2 was invalid.

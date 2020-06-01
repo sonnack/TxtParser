@@ -63,6 +63,9 @@ func findMyTeam(whoami person) person {
 	teamMap["ixin"] = "ev"
 	teamMap["moonsnipe"] = "ev"
 	teamMap["you"] = "ev"
+	teamMap["iamalegend"] = "ev"
+	teamMap["lykomedes"] = "ev"
+	teamMap["neetoo"] = "ev"
 
 	teamMap["asifab"] = "sem"
 	teamMap["sylenth"] = "sem"
@@ -87,8 +90,11 @@ func findMyTeam(whoami person) person {
 	teamMap["silene"] = "sem"
 	teamMap["seradek"] = "sem"
 	teamMap["eekoo"] = "sem"
+	teamMap["aspect"] = "sem"
+	teamMap["adrell"] = "sem"
+	teamMap["innova"] = "sem"
 
-	teamMap["mynionss"] = "live"
+	teamMap["mynionsss"] = "live"
 	teamMap["kenshisan"] = "live"
 	teamMap["melinoe"] = "live"
 	teamMap["mynionss"] = "live"
@@ -102,11 +108,24 @@ func findMyTeam(whoami person) person {
 	teamMap["dapper'"] = "live"
 	teamMap["valleypower"] = "live"
 	teamMap["doggunner"] = "live"
-	teamMap["variac"] = "live"
 	teamMap["salfo"] = "live"
 	teamMap["villion"] = "live"
 	teamMap["tehmob"] = "live"
+	teamMap["adderall"] = "live"
 	teamMap["stilgarr"] = "live"
+	teamMap["theopaway"] = "live"
+	teamMap["lusitania"] = "live"
+	teamMap["taliyah"] = "live"
+	teamMap["salfo"] = "live"
+	teamMap["ziyad"] = "live"
+	teamMap["variac"] = "live"
+	teamMap["kalpo"] = "live"
+	teamMap["insignificance"] = "live"
+	teamMap["fisile"] = "live"
+	teamMap["behelds"] = "live"
+	teamMap["notamea"] = "live"
+	teamMap["adrelle"] = "live"
+	teamMap["juzzy"] = "live"
 
 	whoami.team = teamMap[strings.ToLower(whoami.name)]
 	return whoami
@@ -124,13 +143,16 @@ func totalTeamDamage(people []person) map[string]team {
 				damage: teamMem.dmg,
 			}
 		}
-		fmt.Println(teamMem)
+		if teamMem.team == "" {
+			fmt.Println(teamMem)
+		}
+
 	}
 	return teams
 }
 
 func main() {
-	f, err := os.Open("./new_chatlog.txt")
+	f, err := os.Open("./new_chatlog3.txt")
 	logger := log.Fatalf
 	check(logger, err)
 	defer f.Close()

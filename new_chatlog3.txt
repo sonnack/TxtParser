@@ -1,0 +1,87 @@
+[Combat]  ValleyPower uses Advanced Strafe on Acklay for 8807 points of damage!
+[Combat]  ValleyPower uses Advanced Strafe on a cavern spider for 5372 points of damage!
+[Combat]  Moonsnipe uses Advanced Strafe on Acklay for 4684 points of damage!
+[Combat]  Moonsnipe uses Advanced Strafe on a cavern spider for 2959 points of damage!
+[Combat]  Loubean Soulban uses Advanced Strafe on Acklay for 6031 points of damage!
+[Combat]  Loubean Soulban uses Advanced Strafe on a cavern spider for 7598 points of damage!
+[Combat]  iamalegend uses Advanced Strafe on Acklay for 7795 points of damage!
+[Combat]  Mynionsss uses Advanced Strafe on Acklay for 8254 points of damage!
+[Spatial]  Your target for Strafe Shot 2 was invalid.
+[Combat]  Your target for Strafe Shot 2 was invalid.
+[Combat]  Snak uses Advanced Strafe on Acklay for 7941 points of damage!
+[Combat]  Adrelle uses Advanced Strafe on Acklay for 3980 points of damage!
+[Combat]  Lepen Inzip uses Advanced Strafe on Acklay for 3591 points of damage!
+[Combat]  Wraken' uses Advanced Strafe on Acklay for 3149 points of damage!
+[Combat]  Salfo Oncorhynchus uses Advanced Strafe on Acklay for 4542 points of damage!
+[Combat]  Wisha uses Advanced Strafe on Acklay for 2566 points of damage!
+[Combat]  Machru Varo uses Advanced Strafe on Acklay for 7380 points of damage!
+[Combat]  Ra- Impi uses Advanced Strafe on Acklay for 3276 points of damage!
+[Combat]  Moonsnipe stops fighting.
+[Combat]  Raae uses Advanced Strafe on Acklay for 6679 points of damage!
+[Combat]  juyn uses Advanced Strafe on Acklay for 3562 points of damage!
+[Combat]  Dapper' Dan uses Advanced Strafe on Acklay for 6331 points of damage!
+[Combat]  Spamkry Povo uses Advanced Strafe on Acklay for 6687 points of damage!
+[Combat]  Fisile uses Advanced Strafe on Acklay for 7277 points of damage!
+[Combat]  Kenshisan Serock uses Advanced Strafe on Acklay for 3972 points of damage!
+[Combat]  Serato uses Advanced Strafe on Acklay for 2593 points of damage!
+[Combat]  Lying Low uses Advanced Strafe on Acklay for 6832 points of damage!
+[Combat]  Silene uses Advanced Strafe on Acklay for 2922 points of damage!
+[Combat]  Ziyad Xandor uses Advanced Strafe on Acklay for 3851 points of damage!
+[Combat]  You use Advanced Strafe on Acklay for 4040 points of damage!
+[Combat]  Moosia Mory uses Advanced Strafe on Acklay for 5408 points of damage!
+[Combat]  Lelaebai uses Advanced Strafe on Acklay for 7518 points of damage!
+[Combat]  RuaN' uses Advanced Strafe on Acklay for 7020 points of damage!
+[Combat]  Insignificance uses Advanced Strafe on Acklay for 7740 points of damage!
+[Combat]  kayros uses Advanced Strafe on Acklay for 7471 points of damage!
+[Combat]  Notamea Nightsinger uses Advanced Strafe on Acklay for 3624 points of damage!
+[Combat]  Kalpo uses Advanced Strafe on Acklay for 7584 points of damage!
+[Combat]  Squabble Vohe uses Advanced Strafe on Acklay for 9269 points of damage!
+[Combat]  Melinoe uses Advanced Strafe on Acklay for 4124 points of damage!
+[Combat]  Exact uses Advanced Strafe on Acklay for 3953 points of damage!
+[Combat]  TheOPAway uses Advanced Strafe on Acklay for 10876 points of damage!
+[Combat]  Variac uses Advanced Strafe on Acklay for 5482 points of damage!
+[Combat]  Innova uses Advanced Strafe on Acklay for 6336 points of damage!
+[Combat]  Lusitania Xenocide uses Advanced Strafe on Acklay for 2710 points of damage!
+[Combat]  DieselRS uses Advanced Strafe on Acklay for 7743 points of damage!
+[Combat]  Juzzy uses Advanced Strafe on Acklay for 5982 points of damage!
+[Combat]  Nemento uses Advanced Strafe on Acklay for 3207 points of damage!
+[Combat]  ValleyPower uses Advanced Strafe on Acklay for 11424 points of damage!
+[Combat]  Moonsnipe uses Advanced Strafe on Acklay for 6041 points of damage!
+[Combat]  Loubean Soulban uses Advanced Strafe on Acklay for 7013 points of damage!
+[Combat]  iamalegend uses Advanced Strafe on Acklay for 4082 points of damage!
+[Combat]  Mynionsss uses Advanced Strafe on Acklay for 8532 points of damage!
+[Combat]  Snak uses Advanced Strafe on Acklay for 4026 points of damage!
+[Combat]  Adrelle uses Advanced Strafe on Acklay for 3725 points of damage!
+[Combat]  Lepen Inzip uses Advanced Strafe on Acklay for 3906 points of damage!
+[Combat]  Ra- Impi stops fighting.
+[Combat]  Wraken' uses Advanced Strafe on Acklay for 7012 points of damage!
+[Combat]  Wraken' uses Advanced Strafe on an enhanced kliknik for 3232 points of damage!
+[Combat]  Salfo Oncorhynchus uses Advanced Strafe on Acklay for 5292 points of damage!
+[Combat]  Salfo Oncorhynchus uses Advanced Strafe on an enhanced kliknik for 5524 points of damage!
+[Combat]  Wisha uses Advanced Strafe on Acklay for 6451 points of damage!
+[Combat]  Machru Varo uses Advanced Strafe on Acklay for 8122 points of damage!
+[Combat]  Wisha uses Advanced Strafe on an enhanced kliknik for 6016 points of damage!
+[Spatial]  Your target for Strafe Shot 2 was invalid.
+[Combat]  Your target for Strafe Shot 2 was invalid.
+[Spatial]  Your target for Strafe Shot 2 was invalid.
+[Combat]  Your target for Strafe Shot 2 was invalid.
+[Spatial]  Your target for Strafe Shot 2 was invalid.
+[Combat]  Your target for Strafe Shot 2 was invalid.
+[Combat]  Exact stops fighting.
+[Spatial]  Your target for Strafe Shot 2 was invalid.
+[Combat]  Your target for Strafe Shot 2 was invalid.
+[Spatial]  Your target for Strafe Shot 2 was invalid.
+[Combat]  Your target for Strafe Shot 2 was invalid.
+[Combat]  kayros stops fighting.
+[Spatial]  Your target for Strafe Shot 2 was invalid.
+[Combat]  Your target for Strafe Shot 2 was invalid.
+[Spatial]  Your target for Strafe Shot 2 was invalid.
+[Combat]  Your target for Strafe Shot 2 was invalid.
+[Spatial]  Your target for Strafe Shot 2 was invalid.
+[Combat]  Your target for Strafe Shot 2 was invalid.
+[Spatial]  You must be the group leader perform this action.
+[Combat]  You must be the group leader perform this action.
+[Spatial]  Your target for Strafe Shot 2 was invalid.
+[Combat]  Your target for Strafe Shot 2 was invalid.
+[Spatial]  Your target for Strafe Shot 2 was invalid.
+[Combat]  Your target for Strafe Shot 2 was invalid.
