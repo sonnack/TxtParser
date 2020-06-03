@@ -156,7 +156,7 @@ func totalTeamDamage(people []person) map[string]team {
 }
 
 func main() {
-	f, err := os.Open("./new_chatlog.txt")
+	f, err := os.Open("./new_chatlog2.txt")
 	logger := log.Fatalf
 	check(logger, err)
 	defer f.Close()
