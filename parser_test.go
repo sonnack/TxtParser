@@ -113,3 +113,35 @@ func TestNoTeamHasSumedDmg(t *testing.T) {
 
 	assert.Equal(t, 4000, teams[""].damage, "Should have 4000 dmg")
 }
+
+func TestTotalTeamDamageReturnsCountOfPeople(t *testing.T) {
+	snak := person{"snak", 1000, "ev"}
+	wraken := person{"Wraken'", 3000, "ev"}
+	someone := person{"Someone", 3000, "ev"}
+
+	teams := totalTeamDamage([]person{snak, wraken, someone})
+
+	assert.Equal(t, 3, teams["ev"].count, "Should return total count of 2")
+}
+
+func TestTotalTeamDamageReturnsCountOfPeopleRegardlessOfDmgEntries(t *testing.T) {
+	snak := person{"snak", 1000, "ev"}
+	wraken := person{"Wraken'", 3000, "ev"}
+	someone := person{"snak", 3000, "ev"}
+
+	teams := totalTeamDamage([]person{snak, wraken, someone})
+
+	assert.Equal(t, 2, teams["ev"].count, "Should return total count of 2")
+}
+
+func TestTotalTeamDamageReturnsUniqueCountByTeam(t *testing.T) {
+	snak := person{"snak", 1000, "ev"}
+	wraken := person{"Wraken'", 3000, "ev"}
+	someone := person{"snak", 3000, "ev"}
+	otherTeam := person{"joe", 3000, "ramrod"}
+
+	teams := totalTeamDamage([]person{snak, wraken, someone, otherTeam})
+
+	assert.Equal(t, 2, teams["ev"].count, "Should return total count of 2")
+	assert.Equal(t, 1, teams["ramrod"].count, "Should return total count of 1")
+}

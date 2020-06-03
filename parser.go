@@ -12,6 +12,7 @@ import (
 
 type team struct {
 	name   string
+	count  int
 	damage int
 }
 
@@ -132,27 +133,30 @@ func findMyTeam(whoami person) person {
 }
 
 func totalTeamDamage(people []person) map[string]team {
+	membersSeenBefore := make(map[string]int)
 	teams := make(map[string]team)
 	for _, teamMem := range people {
+		timesSeen := membersSeenBefore[teamMem.name]
+		membersSeenBefore[teamMem.name] = timesSeen + 1
 		if currentTeam, ok := teams[teamMem.team]; ok {
 			currentTeam.damage = currentTeam.damage + teamMem.dmg
+			if timesSeen == 0 {
+				currentTeam.count = currentTeam.count + 1
+			}
 			teams[teamMem.team] = currentTeam
 		} else {
 			teams[teamMem.team] = team{
 				name:   teamMem.team,
 				damage: teamMem.dmg,
+				count:  1,
 			}
 		}
-		if teamMem.team == "" {
-			fmt.Println(teamMem)
-		}
-
 	}
 	return teams
 }
 
 func main() {
-	f, err := os.Open("./new_chatlog3.txt")
+	f, err := os.Open("./new_chatlog.txt")
 	logger := log.Fatalf
 	check(logger, err)
 	defer f.Close()
