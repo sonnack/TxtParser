@@ -66,7 +66,15 @@ func findMyTeam(whoami person) person {
 	teamMap["you"] = "ev"
 	teamMap["iamalegend"] = "ev"
 	teamMap["lykomedes"] = "ev"
-	teamMap["neetoo"] = "ev"
+	teamMap["netoo"] = "ev"
+	teamMap["moeko"] = "ev"
+	teamMap["okto"] = "ev"
+	teamMap["brump"] = "ev"
+	teamMap["wolfsheen"] = "ev"
+	teamMap["ussoc"] = "ev"
+	teamMap["thecolorred"] = "ev"
+	teamMap["thecolorred's"] = "ev"
+	teamMap["fujikano"] = "ev"
 
 	teamMap["asifab"] = "sem"
 	teamMap["sylenth"] = "sem"
@@ -94,6 +102,21 @@ func findMyTeam(whoami person) person {
 	teamMap["aspect"] = "sem"
 	teamMap["adrell"] = "sem"
 	teamMap["innova"] = "sem"
+	teamMap["debree"] = "sem"
+	teamMap["prusa"] = "sem"
+	teamMap["morbol"] = "sem"
+	teamMap["sirbeanie"] = "sem"
+	teamMap["rubedaddy"] = "sem"
+	teamMap["daddyap"] = "sem"
+	teamMap["z'oso"] = "sem"
+	teamMap["wololo"] = "sem"
+	teamMap["radial"] = "sem"
+	teamMap["'anita"] = "sem"
+	teamMap["mallicoy"] = "sem"
+	teamMap["rand-e"] = "sem"
+	teamMap["tecate"] = "sem"
+	teamMap["'archer"] = "sem"
+	teamMap["kolera"] = "sem"
 
 	teamMap["mynionsss"] = "live"
 	teamMap["kenshisan"] = "live"
@@ -127,6 +150,11 @@ func findMyTeam(whoami person) person {
 	teamMap["notamea"] = "live"
 	teamMap["adrelle"] = "live"
 	teamMap["juzzy"] = "live"
+	teamMap["xtz"] = "live"
+	teamMap["pouhaa"] = "live"
+	teamMap["kura"] = "live"
+	teamMap["kraytpolice"] = "live"
+	teamMap["psychopath"] = "live"
 
 	whoami.team = teamMap[strings.ToLower(whoami.name)]
 	return whoami
@@ -151,12 +179,16 @@ func totalTeamDamage(people []person) map[string]team {
 				count:  1,
 			}
 		}
+
+		if teamMem.team == "" {
+			fmt.Println(teamMem.name)
+		}
 	}
 	return teams
 }
 
 func main() {
-	f, err := os.Open("./new_chatlog2.txt")
+	f, err := os.Open("./6320.txt")
 	logger := log.Fatalf
 	check(logger, err)
 	defer f.Close()
